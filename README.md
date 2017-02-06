@@ -10,6 +10,10 @@ We'd also like to hear your feedback if this guideline is useful, please drop us
 -  You are not sure if coding is for you and willing to invest 3 months to find out once and for all
 -  You have technical background and feels like it's time to pick up a new skill to advance your career
 
+## Contributors
+- [Irina Lipovaya] (https://github.com/irinalipovaya)
+- [Ping] (https://github.com/pynkvalerian) 
+
 ## Suggested Material
 ### Objective: Create a To-Do List application at the end of this course.
 < Content Start Here > 
