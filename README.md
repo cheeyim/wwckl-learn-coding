@@ -16,7 +16,16 @@ We'd also like to hear your feedback if this guideline is useful, please drop us
 
 ## Suggested Material
 ### Objective: Create a To-Do List application at the end of this course.
-< Content Start Here > 
+#### For beginners
+- [Foundations of Programming: Fundamentals] (https://goo.gl/Lll3H3) by Simon Allardice where you'll learn core ideas and essentials skills about programming. 
+
+#### For those who want to get solid programming skills regardless of a programming language
+- [Foundations of Programming: Code Efficiency] (https://goo.gl/m2rMVT) by Simon Allardice. Take this course if you want to learn how to make code run faster.
+- [Foundations of Programming: Object-Oriented Design] (https://goo.gl/VwNGpp) by Simon Allardice. This course helps you to design, understand and create a more complex application.
+- [Foundations of Programming: Design Patterns] (https://goo.gl/ub95n3) by Elisabeth Robson and Eric Freeman. You'll learn solutions to common software design problems.
+- [Foundations of Programming: Data Structures] (https://goo.gl/oAiP3k) by Simon Allardice. This course is about deeper understanding of data structures (dictionaries, sets, hash tables, queues and stacks, lists and link lists, trees and graphs and other multiple ways to contain information inside a computer program).
+- [Foundations of Programming: Discrete Mathematics] (https://goo.gl/2jVal4) by Peggy Fisher where you'll learn how to use discrete mathematics in programming. 
+- [Foundations of Programming: Databases] (https://goo.gl/Dguqi1) by Simon Allardice. This course covers essential database knowledge.
 
 ### Objective: Obtain a deeper appreciation of programming concepts/ideas.
 #### History of computer science and its evolution. 
