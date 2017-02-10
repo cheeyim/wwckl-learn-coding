@@ -18,6 +18,12 @@ We'd also like to hear your feedback if this guideline is useful, please drop us
 ### Objective: Create a To-Do List application at the end of this course.
 < Content Start Here > 
 
+### Objective: To understand the basics of Data Structure.
+< Content Start Here > 
+
+### Objective: Practise the new language with algorithm for at least 20 hours.
+< Content Start Here > 
+
 ### Objective: Obtain a deeper appreciation of programming concepts/ideas.
 #### History of computer science and its evolution. 
 This [article] (https://blog.bradfieldcs.com/in-2017-learn-every-language-59b11f68eee#.hgvzy465k) talks about how you can learn any programming language if you can understand that all languages are essentially an abstraction to solve a specific problem. Hence, knowing the history of computer science is fundamental. Watch this lecture by [Ras Bodik] (https://www.youtube.com/watch?v=MjR7tQTIWbc&list=PL3A16CFC42CA6EF4F) - you may start from 42:07 onwards if you want to skip to the history portion.
