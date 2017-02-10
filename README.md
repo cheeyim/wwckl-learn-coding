@@ -22,7 +22,11 @@ We'd also like to hear your feedback if this guideline is useful, please drop us
 < Content Start Here > 
 
 ### Objective: Practise the new language with algorithm for at least 20 hours.
-< Content Start Here > 
+According to Josh Kaufman, "... with a little bit of of practise, you get really good, really quickly". He said that 20 hours of practise are sufficient to get you from beginner to intermediate level very quickly. If you are interested to hear more of his theory, listen to his inspiring talk on [TED Talk] (https://www.youtube.com/watch?v=5MgBikgcWnY). 
+
+There are some good sites with real algorithm interview questions you may start with. The neat part is, there are alot of submissions of answers from people which you may refer as well.
+-  [Career Cup] (https://www.careercup.com/page)
+-  [Geeks for Geeks] (http://www.geeksforgeeks.org/)
 
 ### Objective: Obtain a deeper appreciation of programming concepts/ideas.
 #### History of computer science and its evolution. 
