@@ -16,6 +16,9 @@ We'd also like to hear your feedback if this guideline is useful, please drop us
 
 ## Suggested Material
 ### Objective: Create a To-Do List application at the end of this course.
+< Content here >
+
+### Objective: To understand the basics of Data Structure (DS).
 #### For beginners
 - [Foundations of Programming: Fundamentals] (https://goo.gl/Lll3H3) by Simon Allardice where you'll learn core ideas and essentials skills about programming. 
 
@@ -27,7 +30,6 @@ We'd also like to hear your feedback if this guideline is useful, please drop us
 - [Foundations of Programming: Discrete Mathematics] (https://goo.gl/2jVal4) by Peggy Fisher where you'll learn how to use discrete mathematics in programming. 
 - [Foundations of Programming: Databases] (https://goo.gl/Dguqi1) by Simon Allardice. This course covers essential database knowledge.
 
-### Objective: To understand the basics of Data Structure (DS).
 #### Python
 -  [Why study DS] (http://interactivepython.org/runestone/static/pythonds/Introduction/WhyStudyDataStructuresandAbstractDataTypes.html)
 -  [Basic DS] (http://interactivepython.org/runestone/static/pythonds/BasicDS/toctree.html)
