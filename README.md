@@ -27,6 +27,18 @@ We'd also like to hear your feedback if this guideline is useful, please drop us
 - [Foundations of Programming: Discrete Mathematics] (https://goo.gl/2jVal4) by Peggy Fisher where you'll learn how to use discrete mathematics in programming. 
 - [Foundations of Programming: Databases] (https://goo.gl/Dguqi1) by Simon Allardice. This course covers essential database knowledge.
 
+### Objective: To understand the basics of Data Structure (DS).
+#### Python
+-  Why study DS: http://interactivepython.org/runestone/static/pythonds/Introduction/WhyStudyDataStructuresandAbstractDataTypes.html
+-  Basic DS: http://interactivepython.org/runestone/static/pythonds/BasicDS/toctree.html
+
+### Objective: Practise the new language with algorithm for at least 20 hours.
+According to Josh Kaufman, "... with a little bit of of practise, you get really good, really quickly". He said that 20 hours of practise are sufficient to get you from beginner to intermediate level very quickly. If you are interested to hear more of his theory, listen to his inspiring talk on [TED Talk] (https://www.youtube.com/watch?v=5MgBikgcWnY). 
+
+There are some good sites with real algorithm interview questions you may start with. The neat part is, there are alot of submissions of answers from people which you may refer as well.
+-  [Career Cup] (https://www.careercup.com/page)
+-  [Geeks for Geeks] (http://www.geeksforgeeks.org/)
+
 ### Objective: Obtain a deeper appreciation of programming concepts/ideas.
 #### History of computer science and its evolution. 
 This [article] (https://blog.bradfieldcs.com/in-2017-learn-every-language-59b11f68eee#.hgvzy465k) talks about how you can learn any programming language if you can understand that all languages are essentially an abstraction to solve a specific problem. Hence, knowing the history of computer science is fundamental. Watch this lecture by [Ras Bodik] (https://www.youtube.com/watch?v=MjR7tQTIWbc&list=PL3A16CFC42CA6EF4F) - you may start from 42:07 onwards if you want to skip to the history portion.
