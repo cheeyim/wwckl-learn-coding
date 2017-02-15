@@ -14,6 +14,11 @@ We'd also like to hear your feedback if this guideline is useful, please drop us
 - [Irina Lipovaya] (https://github.com/irinalipovaya)
 - [Ping] (https://github.com/pynkvalerian) 
 
+## The BIG Picture
+There are tonnes of stuff to learn in the coding and computer science world. It is growing as we prepare this guide. So, we will try to give you a bird's eye view of what we are trying to cover through this incredibly clever illustrated Venn Diagram by [Jan Schaumann] (https://twitter.com/jschauma/status/708428158018723840). We have highlighted what we want to cover in red.
+
+![WWCKL Self Starter Venn Diagram] (https://github.com/cheeyim/wwckl-learn-coding/blob/master/images/wwckl-self-starter.png)
+
 ## Suggested Material
 ### Objective: Create a To-Do List application at the end of this course.
 < Content here >
