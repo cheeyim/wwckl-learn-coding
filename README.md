@@ -52,3 +52,10 @@ This [article] (https://blog.bradfieldcs.com/in-2017-learn-every-language-59b11f
 <a href="https://www.youtube.com/watch?v=MjR7tQTIWbc&list=PL3A16CFC42CA6EF4F
 " target="_blank"><img src="http://images.slideplayer.com/26/8800060/slides/slide_7.jpg" 
 alt="ENIAC" width="500" height="400" border="10" /></a>
+
+## Recommended Resources (i.e. MOOC, Books, Youtube Videos, Blogs)
+-  http://carlcheo.com/startcoding
+-  https://scotch.io/
+-  https://egghead.io/
+-  https://www.pluralsight.com/
+-  https://www.coursera.org
