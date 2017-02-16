@@ -59,6 +59,11 @@ This [article] (https://blog.bradfieldcs.com/in-2017-learn-every-language-59b11f
 alt="ENIAC" width="500" height="400" border="10" /></a>
 #### The Art of Unix programming
 This [book](http://www.faqs.org/docs/artu/index.html) talks about the Unix philosophy and the Unix way. Modern application architectures can be traced back to how the Unix operating system works, and its legacy lives on in operating systems we use (MacOS, Android, iOS, Linux distributions). This is a must read since Unix figures so much in your lives as programmers and the underlying philosphy is neglected very often.
+#### Deeper down the rabbit hole.
+For people who are curious like Alice.
+- [Beating the averages](http://paulgraham.com/avg.html)
+- [How to become a hacker](http://www.catb.org/esr/faqs/hacker-howto.html)
+- [Codeless code](http://thecodelesscode.com/contents). These are sometimes subtle, sometimes overt tales that might teach you something about software engineering as a practice.
 
 ### Objective: Obtain an understanding of your operating system
 
@@ -73,3 +78,4 @@ These are the freely available descendants of ye olde Unix operating systems. Th
 -  https://egghead.io/
 -  https://www.pluralsight.com/
 -  https://www.coursera.org
+
