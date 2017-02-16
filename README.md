@@ -39,6 +39,11 @@ There are tonnes of stuff to learn in the coding and computer science world. It 
 -  [Why study DS] (http://interactivepython.org/runestone/static/pythonds/Introduction/WhyStudyDataStructuresandAbstractDataTypes.html)
 -  [Basic DS] (http://interactivepython.org/runestone/static/pythonds/BasicDS/toctree.html)
 
+#### C
+##### Why would you want to study C ?
+Programming languages are often not "close to metal". People who want to truely understand how computer programs work on a processor should descend further down the abstraction level. C is an excellent gateway to it.
+- This [course](http://publications.gbdirect.co.uk/c_book/) is old, from 1991, but still very relevant and is a gentle and  introduction to C.
+
 ### Objective: Practise the new language with algorithm for at least 20 hours.
 According to Josh Kaufman, "... with a little bit of of practise, you get really good, really quickly". He said that 20 hours of practise are sufficient to get you from beginner to intermediate level very quickly. If you are interested to hear more of his theory, listen to his inspiring talk on [TED Talk] (https://www.youtube.com/watch?v=5MgBikgcWnY). 
 
@@ -52,6 +57,15 @@ This [article] (https://blog.bradfieldcs.com/in-2017-learn-every-language-59b11f
 <a href="https://www.youtube.com/watch?v=MjR7tQTIWbc&list=PL3A16CFC42CA6EF4F
 " target="_blank"><img src="http://images.slideplayer.com/26/8800060/slides/slide_7.jpg" 
 alt="ENIAC" width="500" height="400" border="10" /></a>
+#### The Art of Unix programming
+This [book](http://www.faqs.org/docs/artu/index.html) talks about the Unix philosophy and the Unix way. Modern application architectures can be traced back to how the Unix operating system works, and its legacy lives on in operating systems we use (MacOS, Android, iOS, Linux distributions). This is a must read since Unix figures so much in your lives as programmers and the underlying philosphy is neglected very often.
+
+### Objective: Obtain an understanding of your operating system
+
+Being familiar with your operating system is something akin to being familiar with your house and its layout. You know where things are and what to do with them - and to a programmer, her house is the operating system.
+
+#### GNU/Linux operating systems
+These are the freely available descendants of ye olde Unix operating systems. They also power a lot of servers. Since servers tend to eschew graphical environments and provide you a command line interface to work with, picking up some CLI chops might be a good idea. The [Digital Ocean Community's tutorial](https://www.digitalocean.com/community/tutorials/an-introduction-to-linux-basics) is a gentle introduction to CLI. Of course the best way is to DIY, install a Linux distribution such as Debian.
 
 ## Recommended Resources (i.e. MOOC, Books, Youtube Videos, Blogs)
 -  http://carlcheo.com/startcoding
