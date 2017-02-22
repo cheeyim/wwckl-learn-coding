@@ -12,7 +12,7 @@ We'd also like to hear your feedback if this guideline is useful, please drop us
 
 ## Contributors
 - [Irina Lipovaya] (https://github.com/irinalipovaya)
-- [Ping] (https://github.com/pynkvalerian) 
+- [Ping] (https://github.com/pynkvalerian)
 
 ## The BIG Picture
 There are tonnes of stuff to learn in the coding and computer science world. It is growing as we prepare this guide. So, we will try to give you a bird's eye view of what we are trying to cover through this incredibly clever illustrated Venn Diagram by [Jan Schaumann] (https://twitter.com/jschauma/status/708428158018723840). We have highlighted what we want to cover in red.
@@ -20,19 +20,25 @@ There are tonnes of stuff to learn in the coding and computer science world. It 
 ![WWCKL Self Starter Venn Diagram] (https://github.com/cheeyim/wwckl-learn-coding/blob/master/images/wwckl-self-starter.png)
 
 ## Suggested Material
-### Objective: Create a To-Do List application at the end of this course.
-< Content here >
+
+### Objective: Create your own portfolio page.
+#### Learn HTML / CSS
+HTML and CSS forms the basics of webpages and it's easy to get started!
+- [Learn HTML] (http://www.w3schools.com/html/)
+- [Learn CSS] (http://www.w3schools.com/css/)
+- [Learn How to Structure Your Web Page] (https://www.codecademy.com/learn/web)
+When you're done, you can host your own portfolio page for free [here] (https://www.bitballoon.com/). You just need to drag and drop your website folder into [bitballoon] (https://www.bitballoon.com/).
 
 ### Objective: To understand the basics of Data Structure (DS).
 #### For beginners
-- [Foundations of Programming: Fundamentals] (https://goo.gl/Lll3H3) by Simon Allardice where you'll learn core ideas and essentials skills about programming. 
+- [Foundations of Programming: Fundamentals] (https://goo.gl/Lll3H3) by Simon Allardice where you'll learn core ideas and essentials skills about programming.
 
 #### For those who want to get solid programming skills regardless of a programming language
 - [Foundations of Programming: Code Efficiency] (https://goo.gl/m2rMVT) by Simon Allardice. Take this course if you want to learn how to make code run faster.
 - [Foundations of Programming: Object-Oriented Design] (https://goo.gl/VwNGpp) by Simon Allardice. This course helps you to design, understand and create a more complex application.
 - [Foundations of Programming: Design Patterns] (https://goo.gl/ub95n3) by Elisabeth Robson and Eric Freeman. You'll learn solutions to common software design problems.
 - [Foundations of Programming: Data Structures] (https://goo.gl/oAiP3k) by Simon Allardice. This course is about deeper understanding of data structures (dictionaries, sets, hash tables, queues and stacks, lists and link lists, trees and graphs and other multiple ways to contain information inside a computer program).
-- [Foundations of Programming: Discrete Mathematics] (https://goo.gl/2jVal4) by Peggy Fisher where you'll learn how to use discrete mathematics in programming. 
+- [Foundations of Programming: Discrete Mathematics] (https://goo.gl/2jVal4) by Peggy Fisher where you'll learn how to use discrete mathematics in programming.
 - [Foundations of Programming: Databases] (https://goo.gl/Dguqi1) by Simon Allardice. This course covers essential database knowledge.
 
 #### Python
@@ -44,18 +50,24 @@ There are tonnes of stuff to learn in the coding and computer science world. It 
 Programming languages are often not "close to metal". People who want to truely understand how computer programs work on a processor should descend further down the abstraction level. C is an excellent gateway to it.
 - This [course](http://publications.gbdirect.co.uk/c_book/) is old, from 1991, but still very relevant and is a gentle and  introduction to C.
 
+#### Ruby
+##### Why would you want to study Ruby?
+Ruby is a very high level language (meaning it's very similiar to English language) because it was designed with the goal of making coding fun.
+- Learn some basic Ruby syntax with this interactive website - [TryRuby.org] (http://tryruby.org/levels/1/challenges/0)
+- Codecademy provides a basic [Ruby] (https://www.codecademy.com/learn/ruby) course on learning the syntax, as well as basic programming concepts.
+
 ### Objective: Practise the new language with algorithm for at least 20 hours.
-According to Josh Kaufman, "... with a little bit of of practise, you get really good, really quickly". He said that 20 hours of practise are sufficient to get you from beginner to intermediate level very quickly. If you are interested to hear more of his theory, listen to his inspiring talk on [TED Talk] (https://www.youtube.com/watch?v=5MgBikgcWnY). 
+According to Josh Kaufman, "... with a little bit of of practise, you get really good, really quickly". He said that 20 hours of practise are sufficient to get you from beginner to intermediate level very quickly. If you are interested to hear more of his theory, listen to his inspiring talk on [TED Talk] (https://www.youtube.com/watch?v=5MgBikgcWnY).
 
 There are some good sites with real algorithm interview questions you may start with. The neat part is, there are alot of submissions of answers from people which you may refer as well.
 -  [Career Cup] (https://www.careercup.com/page)
 -  [Geeks for Geeks] (http://www.geeksforgeeks.org/)
 
 ### Objective: Obtain a deeper appreciation of programming concepts/ideas.
-#### History of computer science and its evolution. 
+#### History of computer science and its evolution.
 This [article] (https://blog.bradfieldcs.com/in-2017-learn-every-language-59b11f68eee#.hgvzy465k) talks about how you can learn any programming language if you can understand that all languages are essentially an abstraction to solve a specific problem. Hence, knowing the history of computer science is fundamental. Watch this lecture by [Ras Bodik] (https://www.youtube.com/watch?v=MjR7tQTIWbc&list=PL3A16CFC42CA6EF4F) - you may start from 42:07 onwards if you want to skip to the history portion.
 <a href="https://www.youtube.com/watch?v=MjR7tQTIWbc&list=PL3A16CFC42CA6EF4F
-" target="_blank"><img src="http://images.slideplayer.com/26/8800060/slides/slide_7.jpg" 
+" target="_blank"><img src="http://images.slideplayer.com/26/8800060/slides/slide_7.jpg"
 alt="ENIAC" width="500" height="400" border="10" /></a>
 #### The Art of Unix programming
 This [book](http://www.faqs.org/docs/artu/index.html) talks about the Unix philosophy and the Unix way. Modern application architectures can be traced back to how the Unix operating system works, and its legacy lives on in operating systems we use (MacOS, Android, iOS, Linux distributions). This is a must read since Unix figures so much in your lives as programmers and the underlying philosphy is neglected very often.
@@ -78,4 +90,3 @@ These are the freely available descendants of ye olde Unix operating systems. Th
 -  https://egghead.io/
 -  https://www.pluralsight.com/
 -  https://www.coursera.org
-
