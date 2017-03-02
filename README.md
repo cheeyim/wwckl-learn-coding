@@ -59,6 +59,13 @@ Ruby is a very high level language (meaning it's very similiar to English langua
 #### C# (for beginners)
 [Tutorial - Learn C# from Scratch] (https://www.youtube.com/watch?v=gfkTfcpWqAY&feature=youtu.be)
 
+#### Android / Java for mobile development
+If you want to learn to code for the mobile platform, you can start with Java for Android. Here are some resources:
+https://developer.android.com/training/index.html
+
+#### Swift for iOS mobile development
+If you want to learn to code for the iOS / Apple development platform, you can start with the materials here: https://developer.apple.com/swift/
+
 ### Objective: Practise the new language with algorithm for at least 20 hours.
 According to Josh Kaufman, "... with a little bit of of practise, you get really good, really quickly". He said that 20 hours of practise are sufficient to get you from beginner to intermediate level very quickly. If you are interested to hear more of his theory, listen to his inspiring talk on [TED Talk] (https://www.youtube.com/watch?v=5MgBikgcWnY).
 
