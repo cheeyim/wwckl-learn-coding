@@ -93,3 +93,5 @@ These are the freely available descendants of ye olde Unix operating systems. Th
 -  https://egghead.io/
 -  https://www.pluralsight.com/
 -  https://www.coursera.org
+-  http://codecademy.com/
+-  https://www.khanacademy.org/computing
