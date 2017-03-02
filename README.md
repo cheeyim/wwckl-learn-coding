@@ -56,6 +56,9 @@ Ruby is a very high level language (meaning it's very similiar to English langua
 - Learn some basic Ruby syntax with this interactive website - [TryRuby.org] (http://tryruby.org/levels/1/challenges/0)
 - Codecademy provides a basic [Ruby] (https://www.codecademy.com/learn/ruby) course on learning the syntax, as well as basic programming concepts.
 
+#### C# (for beginners)
+[Tutorial - Learn C# from Scratch] (https://www.youtube.com/watch?v=gfkTfcpWqAY&feature=youtu.be)
+
 ### Objective: Practise the new language with algorithm for at least 20 hours.
 According to Josh Kaufman, "... with a little bit of of practise, you get really good, really quickly". He said that 20 hours of practise are sufficient to get you from beginner to intermediate level very quickly. If you are interested to hear more of his theory, listen to his inspiring talk on [TED Talk] (https://www.youtube.com/watch?v=5MgBikgcWnY).
 
@@ -68,7 +71,7 @@ There are some good sites with real algorithm interview questions you may start 
 This [article] (https://blog.bradfieldcs.com/in-2017-learn-every-language-59b11f68eee#.hgvzy465k) talks about how you can learn any programming language if you can understand that all languages are essentially an abstraction to solve a specific problem. Hence, knowing the history of computer science is fundamental. Watch this lecture by [Ras Bodik] (https://www.youtube.com/watch?v=MjR7tQTIWbc&list=PL3A16CFC42CA6EF4F) - you may start from 42:07 onwards if you want to skip to the history portion.
 <a href="https://www.youtube.com/watch?v=MjR7tQTIWbc&list=PL3A16CFC42CA6EF4F
 " target="_blank"><img src="http://images.slideplayer.com/26/8800060/slides/slide_7.jpg"
-alt="ENIAC" width="500" height="400" border="10" /></a>
+alt="ENIAC" width="500" height="300" border="10" /></a>
 #### The Art of Unix programming
 This [book](http://www.faqs.org/docs/artu/index.html) talks about the Unix philosophy and the Unix way. Modern application architectures can be traced back to how the Unix operating system works, and its legacy lives on in operating systems we use (MacOS, Android, iOS, Linux distributions). This is a must read since Unix figures so much in your lives as programmers and the underlying philosphy is neglected very often.
 #### Deeper down the rabbit hole.
