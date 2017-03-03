@@ -55,6 +55,9 @@ Programming languages are often not "close to metal". People who want to truely 
 Ruby is a very high level language (meaning it's very similiar to English language) because it was designed with the goal of making coding fun.
 - Learn some basic Ruby syntax with this interactive website - [TryRuby.org] (http://tryruby.org/levels/1/challenges/0)
 - Codecademy provides a basic [Ruby] (https://www.codecademy.com/learn/ruby) course on learning the syntax, as well as basic programming concepts.
+##### Try Ruby on Rails
+Ruby on Rails is a Ruby framework, meaning a lot of the more commonly used functions have been packed to easier-to-use commands. Ruby on Rails was designed to improve developer productivity, so it's super easy to create an entire app with just a few short commands.
+- Learn Ruby on Rails by building real apps - [Rails Tutorial Book](https://www.railstutorial.org/book)
 
 #### C# (for beginners)
 [Tutorial - Learn C# from Scratch] (https://www.youtube.com/watch?v=gfkTfcpWqAY&feature=youtu.be)
@@ -102,3 +105,5 @@ These are the freely available descendants of ye olde Unix operating systems. Th
 -  https://www.coursera.org
 -  http://codecademy.com/
 -  https://www.khanacademy.org/computing
+-  https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
+-  https://starthere.fm
