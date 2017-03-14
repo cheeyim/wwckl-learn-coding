@@ -44,6 +44,7 @@ When you're done, you can host your own portfolio page for free [here] (https://
 #### Python
 -  [Why study DS] (http://interactivepython.org/runestone/static/pythonds/Introduction/WhyStudyDataStructuresandAbstractDataTypes.html)
 -  [Basic DS] (http://interactivepython.org/runestone/static/pythonds/BasicDS/toctree.html)
+-  [Problem Solving with Algorithms and Data Structures with Python] (http://interactivepython.org/runestone/static/pythonds/index.html)
 
 #### C
 ##### Why would you want to study C ?
@@ -75,6 +76,9 @@ According to Josh Kaufman, "... with a little bit of of practise, you get really
 There are some good sites with real algorithm interview questions you may start with. The neat part is, there are alot of submissions of answers from people which you may refer as well.
 -  [Career Cup] (https://www.careercup.com/page)
 -  [Geeks for Geeks] (http://www.geeksforgeeks.org/)
+
+### Objective: Have a basic idea of what Computer Science entails
+[Teach Yourself Computer Science] (https://teachyourselfcs.com/) is a good site to begin.
 
 ### Objective: Obtain a deeper appreciation of programming concepts/ideas.
 #### History of computer science and its evolution.
