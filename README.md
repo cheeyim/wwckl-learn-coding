@@ -70,6 +70,7 @@ https://developer.android.com/training/index.html
 #### Swift for iOS mobile development
 If you want to learn to code for the iOS / Apple development platform, you can start with the materials here: https://developer.apple.com/swift/
 
+
 ### Objective: Practise the new language with algorithm for at least 20 hours.
 According to Josh Kaufman, "... with a little bit of of practise, you get really good, really quickly". He said that 20 hours of practise are sufficient to get you from beginner to intermediate level very quickly. If you are interested to hear more of his theory, listen to his inspiring talk on [TED Talk](https://www.youtube.com/watch?v=5MgBikgcWnY).
 
@@ -79,6 +80,9 @@ There are some good sites with real algorithm interview questions you may start 
 
 ### Objective: Have a basic idea of what Computer Science entails
 [Teach Yourself Computer Science](https://teachyourselfcs.com/) is a good site to begin.
+
+### Objective: Obtain a deeper appreciation of how computer programs work
+[Structure and Interpretation of Computer Programs](http://sarabander.github.io/sicp/) : This book is one of the all time greatest courses on how computer programs work. As a side effect, working through the exercise makes you a comptant LISP (Clojure/Scheme et al.) programmer, and a super good functional programmer by extension. 
 
 ### Objective: Obtain a deeper appreciation of programming concepts/ideas.
 #### History of computer science and its evolution.
