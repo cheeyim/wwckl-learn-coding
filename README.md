@@ -81,7 +81,7 @@ There are some good sites with real algorithm interview questions you may start 
 ### Objective: Have a basic idea of what Computer Science entails
 [Teach Yourself Computer Science](https://teachyourselfcs.com/) is a good site to begin.
 
-### Objective: Obtain a deeper understanding of how coputer programs work
+### Objective: Obtain a deeper appreciation of how computer programs work
 [Structure and Interpretation of Computer Programs](http://sarabander.github.io/sicp/) : This book is one of the all time greatest courses on how computer programs work. As a side effect, working through the exercise makes you a comptant LISP (Clojure/Scheme et al.) programmer, and a super good functional programmer by extension. 
 
 ### Objective: Obtain a deeper appreciation of programming concepts/ideas.
